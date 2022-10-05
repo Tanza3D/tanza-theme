@@ -1,0 +1,205 @@
+.docs-material #docs-header .docs-titlebar-buttons {
+    background-color: #0D0A0D;
+    color: #eee;
+}
+
+#docs-chrome {
+    background: #0D0A0D;
+    color: #ccc;
+}
+
+.docs-gm .docs-menubar .goog-control {
+    background-color: #19141B00;
+    color: #aaa;
+    margin-right: 8px;
+}
+
+.docs-title-input {
+    background-color: #19141B00;
+}
+
+.docs-gm .docs-material #docs-docos-commentsbutton .docs-icon {
+    filter: invert(1);
+}
+
+.docs-companion-app-switcher-container,
+.companion-app-switcher-container {
+    background-color: #211B24;
+}
+
+.docs-material #docs-toolbar-wrapper {
+    background: #19141B;
+    border-color: #19141B;
+}
+
+.goog-toolbar-button,
+.docs-material .goog-toolbar-button,
+.docs-material .goog-toolbar-combo-button,
+.docs-material .goog-toolbar-menu-button {
+    background-color: #29222C !important;
+    color: #ccc !important;
+    border-color: #29222C !important;
+}
+
+#docs-primary-toolbars * {
+    border-color: #29222C !important;
+}
+
+#fontSizeSelect.docs-font-size-inc-dec-combobox {
+    border-color: #29222C !important;
+    ;
+}
+
+.docs-gm .goog-toolbar-combo-button-input {
+    color: #fffa;
+}
+
+.docs-companion-app-switcher-container {
+    border-color: #19141B !important;
+}
+
+.companion-app-switcher-container {
+    border-color: #29222C !important;
+}
+
+.kix-appview-editor {
+    background: #29222C !important;
+}
+
+.kix-rotatingtilemanager,
+.kix-appview-clipped-ui-elements-container {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.left-sidebar-container.pageless-format {
+    background: #2E2632;
+    border-color: #2E2632 !important;
+    color: white;
+}
+
+.outline-refresh.navigation-widget-unified-styling .navigation-item {
+    color: #fffd;
+}
+
+.outline-refresh.navigation-widget-unified-styling .navigation-item .navigation-item-level-0 {
+    color: #fffa;
+}
+
+.outline-refresh.navigation-widget-unified-styling .location-indicator-highlight.navigation-item,
+.outline-refresh.navigation-widget-unified-styling .location-indicator-highlight.navigation-item .navigation-item-level-0,
+.docs-gm .docs-material .goog-toolbar-button-active,
+.docs-gm .docs-material .goog-toolbar-button-checked,
+.docs-gm .docs-material .goog-toolbar-button-selected,
+.docs-gm .docs-material .goog-toolbar-combo-button-open,
+.docs-gm .docs-material .goog-toolbar-menu-button-open,
+.docs-gm .docs-material .docs-toolbar-split-create-button.goog-toolbar-button-active,
+.docs-gm .docs-material .docs-toolbar-split-create-button.goog-toolbar-menu-button-active,
+.docs-gm .docs-material .docs-toolbar-split-create-button.goog-toolbar-menu-button-open,
+.docs-gm .docs-material.trix-palette .goog-palette-cell-selected {
+    color: #D26DFB !important;
+}
+
+.docs-icon {
+    color: #D26DFB !important;
+    filter: invert(1) hue-rotate(245deg);
+}
+
+.left-sidebar-container.pageless-format,
+.left-sidebar-container.pageless-format {
+    background-color: #211B24 !important;
+    box-shadow: none;
+}
+
+.navigation-widget-header {
+    color: white;
+}
+
+#docs-instant-bubble {
+    background-color: #211B24;
+    border: 1px solid #38313F;
+}
+
+* {
+    caret-color: #fff !important;
+}
+
+#waffle-grid-container canvas {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.docs-gm .grid-bottom-bar {
+    background-color: #0D0A0D;
+    border-color: #19141B !important;
+}
+
+.docs-gm .docs-sheet-tab {
+    background-color: #19141B;
+    border: none;
+}
+
+.grid-shim-bottom,
+.grid-shim-bottom,
+.grid-shim-end-ltr {
+    background-color: #19141B !important;
+    border-color: #19141B !important;
+}
+
+.docs-gm .docs-sheet-active-tab {
+    background-color: #AE5ABB;
+    color: white !important;
+}
+
+.docs-sheet-tab-caption span {
+    color: #eee !important;
+}
+
+.waffle-assistant-entry-expanded {
+    background-color: #3e334355 !important;
+    border-color: #3e334355 !important;
+}
+
+.waffle-assistant-entry-button {
+    filter: brightness(900);
+    opacity: 0.9;
+}
+
+.row-freezebar-extension {
+    background-color: #3e3343 !important;
+    border-color: #3e3343 !important;
+}
+
+.goog-menu {
+    background-color: #29222C;
+    color: #eee !important;
+}
+
+.goog-menuitem-highlight {
+    background: #fff2 !important;
+}
+
+.goog-menu span,
+.goog-menu p,
+.docs-gm .goog-menuitem {
+    color: white;
+}
+
+.goog-menuitem-disabled,
+.docs-gm .goog-menuitem-disabled {
+    opacity: 0.5;
+}
+
+#docs-equationtoolbar.goog-toolbar {
+    background-color: #231B24 !important;
+    border-color: #231B24 !important;
+}
+
+.kix-equation-toolbar-icon,
+.kix-equation-toolbar-palette-icon {
+    filter: invert(1);
+}
+
+.kix-equation-toolbar-palette,
+.goog-palette-table,
+.goog-palette-cell {
+    border-color: #fff1 !important;
+}
